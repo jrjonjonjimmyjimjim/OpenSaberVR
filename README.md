@@ -1,4 +1,7 @@
 ![alt text](https://img.itch.zone/aW1nLzIxNzU5MTkucG5n/original/88KBuM.png "")
+# THIS IS A FORK
+The original repo can be found at https://github.com/dhcdht/OpenSaberVR. I just forked it to experiment with the game and see what I can add. So don't mind me...
+
 # Current development state
 After four releases (latest v0.1.3) I'm totally happy with the current development state of the game. It's fully working and has more features included like I ever wanted in the beginning of the development of OpenSaberVR. That said I won't active develop any further on OpenSaberVR. 
 
